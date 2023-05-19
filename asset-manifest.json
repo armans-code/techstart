@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techstart/static/css/main.073c9b0a.css",
+    "main.js": "/techstart/static/js/main.7de95e5c.js",
+    "index.html": "/techstart/index.html",
+    "main.073c9b0a.css.map": "/techstart/static/css/main.073c9b0a.css.map",
+    "main.7de95e5c.js.map": "/techstart/static/js/main.7de95e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7de95e5c.js"
+  ]
+}
